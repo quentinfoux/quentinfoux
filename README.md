@@ -16,7 +16,7 @@ Visualisation interactive de données relatives à la Covid-19 en France via un 
 > Analyse d’équité, métriques de justice, test de techniques d’atténuation de biais
 
 ### 🌾 Étude Départementale - Landes (40)
-Analyse territoriale du département des Landes, à travers deux thématiques principales : la santé (médecins généralistes) et l'éducation (présence de CFA – Centres de Formation d’Apprentis).
+Analyse territoriale du département des Landes, à travers deux thématiques principales : la santé (médecins généralistes) et l'éducation (présence de CFA – Centres de Formation d’Apprentis) - [Voir sur GitHub](https://github.com/quentinfoux/Etude_Departementale_Landes).
 > Tableaux de bords interactifs, Power BI, Analyse exploratoire et nettoyage des données
 
 ## 📫 Contact  
