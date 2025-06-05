@@ -21,4 +21,4 @@ Analyse territoriale du département des Landes, à travers deux thématiques pr
 
 ## 📫 Contact  
 - quen.foux@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/TON-LIEN)
+- [Mon URL LinkedIn](https://www.linkedin.com/in/quentin-foux-061484218/)
