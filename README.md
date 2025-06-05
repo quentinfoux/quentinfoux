@@ -8,11 +8,11 @@ Je suis diplômé d’un double master en data science/statistiques et managemen
 ## 🧠 Projets sélectionnés
 
 ### 📊 VizCovidFr  
-Visualisation interactive de données relatives à la Covid-19 en France via un package Python — [Voir sur GitHub](https://github.com/AmelieVernay/vizcovidfr)  
+Visualisation interactive de données relatives à la Covid-19 en France via un package Python — [Voir sur GitHub](https://github.com/quentinfoux/vizcovidfr)  
 > Travail collaboratif, gestion de version, visualisation claire via Plotly
 
 ### 🧪 Biais algorithmique — projet COMPAS  
-Étude critique d’un algorithme de scoring judiciaire.  
+Étude critique d’un algorithme de scoring judiciaire - [Voir sur GitHub](https://github.com/quentinfoux/FIML_project).
 > Analyse d’équité, métriques de justice, test de techniques d’atténuation de biais
 
 ### 🌾 Étude Départementale - Landes (40)
